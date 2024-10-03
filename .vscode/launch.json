@@ -4,7 +4,7 @@
     "configurations": [
         {
             "name": "Start Trailhead in Debug Mode",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "module": "trailhead",
             "justMyCode": true
